@@ -1,1 +1,1 @@
-# Digital-signals-and-images
+- [Image scaling]([(https://github.com/natomkul/Digital-signals-and-images/tree/Image-scaling)])
