@@ -1,1 +1,2 @@
 - [Image scaling](https://github.com/natomkul/Digital-signals-and-images/tree/Image-scaling)
+- [Applications of convolution](https://github.com/natomkul/Digital-signals-and-images/tree/Applications-of-convolution)
